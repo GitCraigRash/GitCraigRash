@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on BLOOMTECH SPRINT 9: SOFTWARE ENGINEERING AND REPRODUCIBLE RESEARCH.
 
-- 🌱 I’m currently learning Partial Dependency Plots(PDP) and PDP Intercept Plots.
+- 🌱 I’m currently learning Partial Dependency Plots(PDP) and PDP Intercept Plots, 
 
 - 👯 I’m looking to collaborate on how to extract valuable information for stakeholders in an online retail business. 
 
@@ -13,3 +13,5 @@
 - 📫 How to reach me: craigrashgr@gmail.com 
 
 - ⚡ Fun fact: Like to make complex problems easy to follow.
+
+- 🛠️ Experienced : Multiple Linear Regression, Logistic Regression, Logistic Regression, KKN, Pipelines, GridSearchCV, DataFrame Manipulation, SQL, Model Evaluation, Accuracy Scores, ROC curves, Confusion Matrix. 
