@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on BLOOMTECH SPRINT 9: SOFTWARE ENGINEERING AND REPRODUCIBLE RESEARCH.
 
 - 🌱 I’m currently learning Partial Dependency Plots(PDP) and PDP Intercept Plots.
