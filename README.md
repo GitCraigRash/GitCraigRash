@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 9: SOFTWARE ENGINEERING AND REPRODUCIBLE RESEARCH.
+- 🔭 I’m currently working on BLOOMTECH SPRINT 10: SQL and Databases.
 
-- 🌱 I’m currently learning Partial Dependency Plots(PDP) and PDP Intercept Plots, 
+- 🌱 I’m currently learning SQL and best practices.
 
 - 👯 I’m looking to collaborate on how to extract valuable information for stakeholders in an online retail business. 
 
