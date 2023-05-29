@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 10: SQL and Databases.
+- 🔭 I’m currently working on BLOOMTECH SPRINT 11: Productization and  Cloud.
 
-- 🌱 I’m currently learning SQL and best practices.
+- 🌱 I’m currently learning Flask and web applications.
 
 - 👯 I’m looking to collaborate on how to extract valuable information for stakeholders in an online retail business. 
 
