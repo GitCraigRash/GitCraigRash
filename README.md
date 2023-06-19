@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 11: Productization and  Cloud.
+- 🔭 I’m currently working on BLOOMTECH SPRINT 12: Technical Exam Prep.
 
 - 🌱 I’m currently learning Flask and web applications.
 
@@ -14,4 +14,4 @@
 
 - ⚡ Fun fact: Like to make complex problems easy to follow.
 
-- 🛠️ Experienced : Multiple Linear Regression, Logistic Regression, Logistic Regression, KNN, Pipelines, GridSearchCV, DataFrame Manipulation, SQL, Model Evaluation, Accuracy Scores, ROC curves, Confusion Matrix. 
+- 🛠️ Experienced : Multiple Linear Regression, Logistic Regression, Logistic Regression, KNN, Pipelines, GridSearchCV, DataFrame Manipulation, SQL, Model Evaluation, Accuracy Scores, ROC curves, Confusion Matrix, Flask Applications, and Python packaging. 
