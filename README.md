@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 12: Technical Exam Prep.
+- 🔭 I’m currently working on BLOOMTECH SPRINT 14: NEURAL NETWORKS FOUNDATIONS
 
-- 🌱 I’m currently learning Flask and web applications.
+- 🌱 I’m currently learning how to use nural networks.
 
 - 👯 I’m looking to collaborate on how to extract valuable information for stakeholders in an online retail business. 
 
