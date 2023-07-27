@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 14: NEURAL NETWORKS FOUNDATIONS
+- 🔭 I’m currently working on BLOOMTECH SPRINT 15 :Major Neural Network Architectures
 
 - 🌱 I’m currently learning how to use nural networks.
 
