@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 15 :Major Neural Network Architectures
+- 🔭 I’m currently working on BLOOMTECH SPRINT 16: Technical Exam Preparation and LinkedIn 
 
-- 🌱 I’m currently learning how to use nural networks.
+- 🌱 I’m currently learning what career options are availible.
 
 - 👯 I’m looking to collaborate on how to extract valuable information for stakeholders in an online retail business. 
 
@@ -12,6 +12,6 @@
 
 - 📫 How to reach me: craigrashgr@gmail.com 
 
-- ⚡ Fun fact: Like to make complex problems easy to follow.
+- ⚡ Fun fact: I like optimizing time managment and processes.
 
-- 🛠️ Experienced : Multiple Linear Regression, Logistic Regression, Logistic Regression, KNN, Pipelines, GridSearchCV, DataFrame Manipulation, SQL, Model Evaluation, Accuracy Scores, ROC curves, Confusion Matrix, Flask Applications, and Python packaging. 
+- 🛠️ Experienced : Multiple Linear Regression, Logistic Regression, Logistic Regression, KNN, Pipelines, GridSearchCV, DataFrame Manipulation, SQL, Model Evaluation, Accuracy Scores, ROC curves, Confusion Matrix, Flask Applications, Sequential AI Models, Convolutional Neural Networks, Recurssive Neural Networks, and Python packaging. 
