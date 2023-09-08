@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 16: Technical Exam Preparation and LinkedIn 
+- 🔭 I’m currently working on BLOOMTECH SPRINT 17-20: Applied Computer Science 
 
 - 🌱 I’m currently learning what career options are availible.
 
