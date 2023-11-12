@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on BLOOMTECH SPRINT 21-24: Labs
 
-- 🌱 I’m currently searching what career options.
+- 🌱 I’m currently exploring career options.
 
 - 👯 I’m currently collaborating on coding AI to detect ASL letters. 
 
 - 🤔 I’m looking to better understand tensorflow.
 
-- 💬 Ask me about my insights on substiutionary attonment. 
+- 💬 Ask me about my insights on having a purposeful life. 
 
 - 📫 How to reach me: craigrashgr@gmail.com 
 
