@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BLOOMTECH SPRINT 21-24: Labs
+- 🔭 I’m currently working on detecting AI generated essays.
 
 - 🌱 I’m currently exploring career options.
 
-- 👯 I’m currently collaborating on coding AI to detect ASL letters. 
+- 👯 I’m currently collaborating on coding AI to detect ASL letters and detecting AI generated essays. 
 
 - 🤔 I’m looking to better understand tensorflow.
 
