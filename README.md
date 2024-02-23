@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on detecting AI generated essays.
 
-- 🌱 I’m currently exploring career options.
+- 🌱 I’m currently exploring LSTM models.
 
 - 👯 I’m currently collaborating on coding AI to detect ASL letters and detecting AI generated essays. 
 
