@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI alignment.
+- 🔭 I’m currently working on AI deploment on Edge devices.
 
-- 🌱 I’m currently exploring papers on AI alignment.
+- 🌱 I’m currently exploring papers on AI deploment on Edge devices.
 
-- 👯 I’m currently not collaborating with anyone, but am open to projects. 
+- 👯 I’m currently not collaborating with anyone. 
 
-- 🤔 I’m looking to better understand AI alignment.
+- 🤔 I’m looking to better understand AI Pruning/Quantization.
 
 - 💬 Ask me about my insights on having a purposeful life. 
 
