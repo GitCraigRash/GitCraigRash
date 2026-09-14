@@ -1,17 +1,18 @@
-### Hi there 👋
+### Craig Rash Jr | CCNA Certified | Network & Automation Engineer
 
-- 🔭 I’m currently working on AI deploment on Edge devices.
+Analytical and process-driven Network Engineer with a strong foundation in Cisco infrastructure, network automation, and applied AI. Leveraging a background in human-centered communication and analytical logic to troubleshoot complex systems, write clean automation scripts, and deliver high-availability network solutions.
 
-- 🌱 I’m currently exploring papers on AI deploment on Edge devices.
+- 📧 **Contact:** craigrashgr@gmail.com
+- 📜 **Certifications:** Cisco Certified Network Associate (CCNA)
+- 🌐 **Portfolio & Labs:** [Link to your Packet Tracer / GNS3 repos or Personal Site]
 
-- 👯 I’m currently not collaborating with anyone. 
+---
 
-- 🤔 I’m looking to better understand AI Pruning/Quantization.
+### 🛜 Networking & Infrastructure Stack
+- **Core Networking:** TCP/IP, OSI Model (L1-L3), OSPF, BGP, VLANs, Subnetting, NAT/PAT, ACLs
+- **Cisco Ecosystem:** Cisco IOS, Switches (Catalyst), Routers, Packet Tracer, Wireshark
+- **Network Automation & Scripting:** Python (Netmiko, Paramiko, REST APIs), Bash, CLI Automation
+- **Cloud & Linux:** AWS Foundations, Linux Administration, SSH, System Monitoring
 
-- 💬 Ask me about my insights on having a purposeful life. 
-
-- 📫 How to reach me: craigrashgr@gmail.com 
-
-- ⚡ Fun fact: I like skiing and hiking!
-
-- 🛠️ Experienced : OpenAI API, Hugging-Face API,  AI Alignment, AI Image Recognition, Multiple Linear Regression, Logistic Regression, Logistic Regression, KNN, Pipelines, GridSearchCV, DataFrame Manipulation, SQL, Model Evaluation, Accuracy Scores, ROC curves, Confusion Matrix, Flask Applications, Sequential AI Models, Convolutional Neural Networks, Recurssive Neural Networks, and Python packaging. 
+### 🤖 Applied AI & Data Engineering
+- **ML & Automation:** Python (Pandas, NumPy, Scikit-Learn), Flask APIs, OpenAI API, Hugging-Face, Model Evaluation, SQL
