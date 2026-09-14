@@ -4,7 +4,7 @@ Analytical and process-driven Network Engineer with a strong foundation in Cisco
 
 - 📧 **Contact:** craigrashgr@gmail.com
 - 📜 **Certifications:** Cisco Certified Network Associate (CCNA)
-- 🌐 **Portfolio & Labs:** [Link to your Packet Tracer / GNS3 repos or Personal Site]
+- 🌐 **Portfolio & Labs:** 
 
 ---
 
